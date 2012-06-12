@@ -1,4 +1,4 @@
-require(['jquery', 'ace/src/ace', 'module', 'css!./styletab.css', './test'], function($, ace, module) {
+require(['jquery', 'ace/src/ace', 'module', './test'], function($, ace, module) {
   
 
 //var config = module.config();
