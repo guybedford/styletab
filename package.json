@@ -6,7 +6,7 @@
       "ace": "github:ajaxorg/ace-builds",
       "less": "github:cloudhead/less.js/v1.0",
       "text": "github:requirejs/text/2.0.0",
-      "require-css": "github:guybedford/require-css/master",
+      "require-css": "github:guybedford/require-css/master"
     }
   }
 }
