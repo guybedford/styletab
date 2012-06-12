@@ -1,0 +1,12 @@
+{
+  "amd": {},
+  "volo": {
+    "dependencies": {
+      "jquery": "github:jquery/jquery/1.7.2",
+      "ace": "github:ajaxorg/ace-builds",
+      "less": "github:cloudhead/less.js/v1.0",
+      "text": "github:requirejs/text/2.0.0",
+      "require-css": "github:guybedford/require-css/master",
+    }
+  }
+}
